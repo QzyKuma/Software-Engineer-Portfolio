@@ -89,6 +89,8 @@ p {
     background-size: 400%;
     color: #fff;
     border: none;
+    margin: 0 auto;
+    display: block;
   }
   
   .button:hover::before {

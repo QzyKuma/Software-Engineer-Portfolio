@@ -1,6 +1,6 @@
-const lorem =document.getElementById("lorem")
+const lorem = document.querySelector(".lorem")
 
 
 function myLorem() {
-    lorem.style.color = "blue";
+    lorem.style.color = "#65D03D";
 }
