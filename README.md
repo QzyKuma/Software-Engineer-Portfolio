@@ -23,3 +23,5 @@ lorem.style.color = "#65D03D";
 }
 
 --- ready for Git push ---
+
+- Created branch "SEP-test-branch"
