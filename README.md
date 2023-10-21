@@ -10,4 +10,16 @@ Created the following:
 -JavaScript js
 -style css
 
---- created ---
+--- Applied CSS w/ styles and beginner animations ---
+
+- fadeInAnimation
+
+--- created following JS variable and Function ---
+
+const lorem = document.getElementById ("lorem")
+
+function myLorem() {
+lorem.style.color = "#65D03D";
+}
+
+--- ready for Git push ---
