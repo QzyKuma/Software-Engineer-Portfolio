@@ -1,3 +1,6 @@
+
+/* Main style for the HTML pages*/
+
 body {
 	margin: 0;
 	padding: 0;
@@ -69,6 +72,8 @@ p {
 	font-family: "Nunito", sans-serif; 
 }
 
+/* Keyframe animations */
+
 @keyframes fadeInAnimation {
     0% {
         opacity: 0;
@@ -78,10 +83,11 @@ p {
      }
 }
  
+/* Button styles */
 
 .button {
     position: relative;
-    display: flex;
+    overflow: hidden;
     height: 3rem;
     padding: 0 2rem;
     border-radius: 1.5rem;
@@ -89,6 +95,8 @@ p {
     background-size: 400%;
     color: #fff;
     border: none;
+    margin: 0 auto;
+    display: block;
   }
   
   .button:hover::before {
